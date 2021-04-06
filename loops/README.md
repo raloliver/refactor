@@ -49,4 +49,4 @@ Check if every element matches the condition passed to every function.
 
 ### Replace Control Flag with Break
 
-![Replace Control Flag with Break](https://imgur.com/a/kcMf25U)
+![Replace Control Flag with Break](https://i.imgur.com/An5D46D.png)
