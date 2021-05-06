@@ -11,3 +11,9 @@ This should run the code with all its dependencies installed.
 NOTE: In some exercises, when you type "npm install", you might see error "ENOENT": no such file or directory, this is fine, in this exercises there is no external dependencies, you can skip the "npm install" and proceed to the "node initial" command.
 
 After you complete the task, to validate, that the changes do not break the correct behavior make sure the code you see matches the "expected output" which you see at the end of "initial.js" file.
+
+
+### REMEMBER
+
+- Magic Numbers offer little to no context, and because of that it’s hard to understand what it means, making the code difficult to work with.
+- Async / Await Syntax: considered the best way of writing asynchronous code in Javascript
