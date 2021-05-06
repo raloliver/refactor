@@ -2,7 +2,7 @@
 
 #### If else hell
 
-![If else hell](https://i.imgur.com/hVtqGDQ.png)
+![If else hell](https://i.imgur.com/hVtqGDQ.png "If else hell")
 
 #### Nesting level
 
@@ -14,13 +14,13 @@
 
 > In javascript, day 0 means Sunday.
 
-![Decompose conditional](https://i.imgur.com/HRUxyqO.png)
+![Decompose conditional](https://i.imgur.com/HRUxyqO.png "Decompose conditional")
 
 #### Return early or guard clause
 
 - The idea here is that instead of having logic to write in a variable and then return it, you should just return the value once it's calculated.
 
-![Return early or guard clause](https://i.imgur.com/WTaxWYR.png)
+![Return early or guard clause](https://i.imgur.com/WTaxWYR.png "Return early or guard clause")
 
 
 #### Remove unnecessary else's from code
