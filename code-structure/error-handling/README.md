@@ -1,4 +1,4 @@
-### Error handling
+# ERROR HANDLING
 
 **What is an error in code?**
 

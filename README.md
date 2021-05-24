@@ -1,3 +1,5 @@
+# REFACTOR JAVASCRIPT
+
 In the code you'll find one file called "initial.js" and a folder called "solution" where you can find "solution.js", which as you might have guessed contains the solution for the exercise.
 
 The "initial.js" is your starting point and it contains the goal of the exercise and what you should see when you run the code.
@@ -12,8 +14,20 @@ NOTE: In some exercises, when you type "npm install", you might see error "ENOEN
 
 After you complete the task, to validate, that the changes do not break the correct behavior make sure the code you see matches the "expected output" which you see at the end of "initial.js" file.
 
+![REFACTOR JAVASCRIPT](https://i.imgur.com/OPpq7J1.png "REFACTOR JAVASCRIPT")
 
-### REMEMBER
+### BOOKS
+
+- Refactoring, Martin Fowler & Kent Beck (2018 version)
+- Refactoring JavaScript: Turning Bad Code Into Good Code
+- Clean Code, Robert C. Martin
+
+### WEBSITES
+
+- https://refactoring.com/catalog/
+- https://refactoring.guru/refactoring
+
+### REMINDERS
 
 - Magic Numbers offer little to no context, and because of that it’s hard to understand what it means, making the code difficult to work with.
 - Async / Await Syntax: considered the best way of writing asynchronous code in Javascript

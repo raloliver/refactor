@@ -1,0 +1,28 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 12
+    },
+    "rules": {
+        "quotes": ["error", "double"],
+        
+        "no-var": ["error"],
+        "max-depth": ["error", 4],
+        "max-lines-per-function": ["error", 20],
+        "max-lines": ["error", 20], //file
+
+        "no-magic-numbers": ["warn"],
+        "camelcase": ["warn"],
+
+        "max-params": ["warn", 4]
+
+        //Style rules
+    }
+}
